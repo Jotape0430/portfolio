@@ -91,7 +91,7 @@ body {
     padding: 1rem;
     text-align: center;
     border-radius: 0.5rem;
-    font-size: 1.5rem;
+    font-size: 150%;
     padding: 1.34rem 0rem;
     text-decoration: none;
     color: white;
@@ -172,6 +172,10 @@ body {
 
     .principal__conteudo {
         width: auto;
+    }
+
+    .principal__links__navegacao {
+        font-size: 150%
     }
 }
 
