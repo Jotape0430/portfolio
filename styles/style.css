@@ -156,24 +156,6 @@ body {
     border: 0.1875rem solid #22D4FD;
 }
 
-@media (max-width: 1400px) {
-    .cabecalho {
-        padding: 10%;
-    }
-
-    .cabecalho__menu {
-        justify-content: center;
-    }
-
-    .principal {
-        flex-direction: column-reverse;
-    }
-
-    .principal__conteudo {
-        width: auto;
-    }
-
-}
     
 
 
