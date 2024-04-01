@@ -87,7 +87,7 @@ body {
     justify-content: center;
     gap: 1rem;
     font-family: var(--fonte-secundaria);
-    width: 63%;
+    width: 43%;
     padding: 1rem;
     text-align: center;
     border-radius: 0.5rem;
@@ -101,7 +101,7 @@ body {
 }
 .principal__links__navegacao:hover {
     background-color: var(--cor-hover);
-    width: 70%;
+    width: 50%;
 }
 
 .principal__conteudo__foto {
